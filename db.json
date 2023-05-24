@@ -2,30 +2,24 @@
     "videos":[
         {
              "id": 1,
-             "titulo": "O labirinto do Logcat",
-             "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
+             "titulo": "Rainbow Six Siege",
+             "capa": "https://s2.glbimg.com/4raxl-QiabS5Tl0Ey7L8frlMiq4=/0x0:1280x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/v/G/H0zuKWTwmAb0kfAGIeLw/image.jpg",
              "link": "https://www.youtube.com/embed/oZ1HNbL5wV8"
         },
         {
             "id": 2,
-            "titulo": "Um componente no espaço",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+            "titulo": "The Hunter Call Of The Wild",
+            "capa": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S1_2560x1440-69120885e0b3acfb87f34ac0bad68ec6",
+            "link": "https://www.youtube.com/embed/TpD1xO7al0E"
         },
         {
             "id": 3,
-            "titulo": "O poderoso JavaScript",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-            "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+            "titulo": "Need For Speed Underground 2",
+            "capa": "https://1hitgames.com/wp-content/uploads/2019/09/Need-for-Speed-Underground-2-1-924x482.jpg",
+            "link": "https://www.youtube.com/embed/aewW_RRIzPA"
         },
         {
             "id": 4,
-            "titulo": "Dart, o Caçador de Andróides",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-            "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
-        },
-        {
-            "id": 5,
             "titulo": "Um sobrevivente - DAYZ - Leon Kexz",
             "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfbT-AjsAtQU3u-gov2rJiepjy1NNOBuq5h1BJkPDkB6QI953qOue3055Usc-lVLwCPes&usqp=CAU",
             "link": "https://www.youtube.com/embed/3y4oZNEvCIE"
