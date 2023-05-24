@@ -1,4 +1,3 @@
-
 {
     "videos":[
     {
@@ -30,6 +29,6 @@
         "titulo": "O Sobrevivente [Dayz] - Leon Kexz",
         "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
         "link": "https://www.youtube.com/embed/3y4oZNEvCIE"
-    }
+    },
 ]
 }
